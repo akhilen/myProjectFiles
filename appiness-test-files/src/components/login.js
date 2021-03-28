@@ -7,7 +7,7 @@ function Login(props){
         <>
         <form>
             <div>
-               <label>Username</label>
+               <label>EmailID</label>
                <input 
                     type="text" 
                     name="email" 
